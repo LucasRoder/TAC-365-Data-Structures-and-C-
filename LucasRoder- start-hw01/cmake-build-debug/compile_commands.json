@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\main.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/main.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o src\\CMakeFiles\\src.dir\\cypher.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\src\\cypher.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src/cypher.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/src/CMakeFiles/src.dir/cypher.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o src\\CMakeFiles\\src.dir\\fileio.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\src\\fileio.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src/fileio.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/src/CMakeFiles/src.dir/fileio.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o tests\\CMakeFiles\\tests.dir\\Catch.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\tests\\Catch.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/tests/Catch.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/tests/CMakeFiles/tests.dir/Catch.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o tests\\CMakeFiles\\tests.dir\\studentTests.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\tests\\studentTests.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/tests/studentTests.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/tests/CMakeFiles/tests.dir/studentTests.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -I\"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/src\" -g -std=gnu++17 -fdiagnostics-color=always -o tests\\CMakeFiles\\tests.dir\\gradedTests.cpp.obj -c \"C:\\Users\\Lucas Roder\\CLionProjects\\LucasRoderHW1\\LucasRoder- start-hw01\\tests\\gradedTests.cpp\"",
+  "file": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/tests/gradedTests.cpp",
+  "output": "C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/tests/CMakeFiles/tests.dir/gradedTests.cpp.obj"
+}
+]

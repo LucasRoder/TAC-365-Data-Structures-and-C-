@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/Catch.cpp.o CMakeFiles/tests.dir/studentTests.cpp.o CMakeFiles/tests.dir/gradedTests.cpp.o -o tests  ../src/libsrc.a

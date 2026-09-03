@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/cmake_install.cmake",
+		"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/src/cmake_install.cmake",
+		"C:/Users/Lucas Roder/CLionProjects/LucasRoderHW1/LucasRoder- start-hw01/cmake-build-debug/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
