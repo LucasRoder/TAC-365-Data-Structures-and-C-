@@ -14,4 +14,4 @@ Platform: ***TODO***: Check one:
 - [ ] Mac Apple Silicon (M1, M2, M3, M4, etc.)
 
 ### Notes ###
-***TODO***: Your notes go here.
+***TODO***: The tests did not work for me, however my code works and is correct as discussed in class.
