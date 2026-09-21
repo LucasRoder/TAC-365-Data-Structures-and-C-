@@ -1,0 +1,112 @@
+Seed: 946684805
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> Enter the file to load: 
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> The following 3 heroes are loaded...
+---------------------------------------
+Nathan Greenfield has the following powers...
+	Superhuman Strength
+	A strong belief in their mother country
+---------------------------------------
+Joseph Greenfield has the following powers...
+	Ability to fly
+	Uses some crazy gadgets
+---------------------------------------
+Sanjay Madhav has the following powers...
+	Superhuman Intelligence
+	Can shoot lasers
+	Uses some crazy gadgets
+---------------------------------------
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 0: Nathan Greenfield
+1: Joseph Greenfield
+2: Sanjay Madhav
+Select your first hero: Select your second hero: ---------------------------------------
+Nathan Greenfield has 3 health 
+Joseph Greenfield has 4 health 
+*Nathan Greenfield SMASH!!
+*Joseph Greenfield flies away, maybe far from this place.
+---------------------------------------
+Nathan Greenfield has 2 health 
+Joseph Greenfield has 4 health 
+*Nathan Greenfield SMASH!!
+*Joseph Greenfield flies away, maybe far from this place.
+---------------------------------------
+Nathan Greenfield has 1 health 
+Joseph Greenfield has 4 health 
+*Nathan Greenfield SMASH!!
+*Joseph Greenfield flies away, maybe far from this place.
+---------------------------------------
+Joseph Greenfield WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 0: Nathan Greenfield
+1: Joseph Greenfield
+2: Sanjay Madhav
+Select your first hero: Select your second hero: ---------------------------------------
+Joseph Greenfield has 4 health 
+Sanjay Madhav has 5 health 
+*Joseph Greenfield uses what's (hopefully) the right tool for the job.
+*Sanjay Madhav ponders deeply.
+---------------------------------------
+Joseph Greenfield has 3 health 
+Sanjay Madhav has 5 health 
+*Joseph Greenfield flies away, maybe far from this place.
+*Sanjay Madhav uses what's (hopefully) the right tool for the job.
+---------------------------------------
+Joseph Greenfield has 2 health 
+Sanjay Madhav has 5 health 
+*Joseph Greenfield uses what's (hopefully) the right tool for the job.
+*Sanjay Madhav shoots lasers from their eyes. PEWPEWPEW!
+---------------------------------------
+Joseph Greenfield has 2 health 
+Sanjay Madhav has 4 health 
+*Joseph Greenfield flies away, maybe far from this place.
+*Sanjay Madhav ponders deeply.
+---------------------------------------
+Joseph Greenfield has 2 health 
+Sanjay Madhav has 3 health 
+*Joseph Greenfield flies away, maybe far from this place.
+*Sanjay Madhav ponders deeply.
+---------------------------------------
+Joseph Greenfield has 2 health 
+Sanjay Madhav has 2 health 
+*Joseph Greenfield flies away, maybe far from this place.
+*Sanjay Madhav ponders deeply.
+---------------------------------------
+Joseph Greenfield has 2 health 
+Sanjay Madhav has 1 health 
+*Joseph Greenfield flies away, maybe far from this place.
+*Sanjay Madhav shoots lasers from their eyes. PEWPEWPEW!
+---------------------------------------
+Joseph Greenfield has 1 health 
+Sanjay Madhav has 1 health 
+*Joseph Greenfield uses what's (hopefully) the right tool for the job.
+*Sanjay Madhav uses what's (hopefully) the right tool for the job.
+---------------------------------------
+Sanjay Madhav WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> Goodbye

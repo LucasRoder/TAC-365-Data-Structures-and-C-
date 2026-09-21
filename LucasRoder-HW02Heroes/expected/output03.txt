@@ -1,0 +1,116 @@
+Seed: 946684800
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+Enter the file to load: 
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+The following 3 heroes are loaded...
+---------------------------------------
+Mighty Mouse has the following powers...
+*	Superhuman Strength
+*	Ability to fly
+---------------------------------------
+Inspector Gadget has the following powers...
+*	Uses some crazy gadgets
+*	Can shoot lasers
+*	Ability to fly
+---------------------------------------
+Brainiac has the following powers...
+*	Superhuman Intelligence
+---------------------------------------
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+0: Mighty Mouse
+1: Inspector Gadget
+2: Brainiac
+Select your first hero: Select your second hero: ---------------------------------------
+Mighty Mouse has 5 health 
+Inspector Gadget has 4 health 
+*Mighty Mouse flies away, maybe far from this place.
+*Inspector Gadget uses what's (hopefully) the right tool for the job.
+---------------------------------------
+Mighty Mouse has 4 health 
+Inspector Gadget has 4 health 
+*Mighty Mouse SMASH!!
+*Inspector Gadget shoots lasers from their eyes. PEWPEWPEW!
+---------------------------------------
+Mighty Mouse has 4 health 
+Inspector Gadget has 3 health 
+*Mighty Mouse flies away, maybe far from this place.
+*Inspector Gadget shoots lasers from their eyes. PEWPEWPEW!
+---------------------------------------
+Mighty Mouse has 3 health 
+Inspector Gadget has 3 health 
+*Mighty Mouse flies away, maybe far from this place.
+*Inspector Gadget shoots lasers from their eyes. PEWPEWPEW!
+---------------------------------------
+Mighty Mouse has 2 health 
+Inspector Gadget has 3 health 
+*Mighty Mouse flies away, maybe far from this place.
+*Inspector Gadget uses what's (hopefully) the right tool for the job.
+---------------------------------------
+Mighty Mouse has 1 health 
+Inspector Gadget has 3 health 
+*Mighty Mouse flies away, maybe far from this place.
+*Inspector Gadget flies away, maybe far from this place.
+---------------------------------------
+Inspector Gadget WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+0: Mighty Mouse
+1: Inspector Gadget
+2: Brainiac
+Select your first hero: Select your second hero: ---------------------------------------
+Inspector Gadget has 4 health 
+Brainiac has 3 health 
+*Inspector Gadget flies away, maybe far from this place.
+*Brainiac ponders deeply.
+---------------------------------------
+Inspector Gadget has 4 health 
+Brainiac has 2 health 
+*Inspector Gadget uses what's (hopefully) the right tool for the job.
+*Brainiac ponders deeply.
+---------------------------------------
+Inspector Gadget has 3 health 
+Brainiac has 2 health 
+*Inspector Gadget flies away, maybe far from this place.
+*Brainiac ponders deeply.
+---------------------------------------
+Inspector Gadget has 3 health 
+Brainiac has 1 health 
+*Inspector Gadget uses what's (hopefully) the right tool for the job.
+*Brainiac ponders deeply.
+---------------------------------------
+Inspector Gadget has 2 health 
+Brainiac has 1 health 
+*Inspector Gadget shoots lasers from their eyes. PEWPEWPEW!
+*Brainiac ponders deeply.
+---------------------------------------
+Inspector Gadget WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+Goodbye

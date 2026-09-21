@@ -1,24 +1,25 @@
-# Copyright (c) 2023 Nathan Greenfield. All rights reserved
-
 # Require CMAKE 3.12 or higher
 cmake_minimum_required(VERSION 3.12)
 
-# If you create new headers files, add them to these list!
-set(HEADER_FILES
-    hero.h
-    powers.h
-    fight.h
-    strlib.h
-)
+# Project name
+project(P2 VERSION 1.0)
 
-# If you create new cpp files, add them to these list!
-set(SOURCE_FILES
-    hero.cpp
-    powers.cpp
-    fight.cpp
-    strlib.cpp
-)
+# Build for C++11
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Don't change this
-add_library(src ${SOURCE_FILES} ${HEADER_FILES})
+# Any source files in this directory
+set(SOURCE_FILES main.cpp)
 
+# Where any include files are
+include_directories(src)
+
+# Subdirectories to build
+add_subdirectory(src)
+add_subdirectory(tests)
+
+# Name of executable
+add_executable(main ${SOURCE_FILES})
+
+# Link main vs the source library
+target_link_libraries(main src)
