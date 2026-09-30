@@ -1,0 +1,6 @@
+BRK.A|Berkshire Hathaway Inc. Cl A|1307.00|11
+APPL|Apple Inc.|0.11|10000.0
+MDLZ|Mondelez International Inc. Cl A|31.07|30
+
++BRK.A|365500
++APPL|135.43

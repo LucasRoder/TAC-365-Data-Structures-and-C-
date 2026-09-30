@@ -1,0 +1,55 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cmake",
+            "label": "config",
+            "command": "configure",
+            "targets": [
+                "ALL"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "CMake template configure task",
+            "dependsOn": "create build directory"
+        },
+        {
+            "type": "cmake",
+            "label": "build main",
+            "command": "build",
+            "targets": [
+                "main"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "CMake template build task",
+            "dependsOn": "config"
+        },
+        {
+            "type": "cmake",
+            "label": "build tests",
+            "command": "build",
+            "targets": [
+                "tests"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "CMake template build task",
+            "dependsOn": "config"
+        },
+        {
+            "label": "create build directory",
+            "type": "shell",
+            "linux": {
+                "command": "mkdir -p ./build"
+            },
+            "windows": {
+                "command": "cmd",
+                "args": ["/C", "if not exist .\\build mkdir .\\build"]
+            },
+            "osx": {
+                "command": "mkdir -p ./build"
+            }
+        }
+    ]
+}

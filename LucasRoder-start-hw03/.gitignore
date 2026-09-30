@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Mac files
+*.xcodeproj/
+.DS_Store
+*~
+diff.txt
+
+# PC files
+*.sln
+*.vcxproj
+*.db
+*.suo
+*.sdf
+Release/
+Debug/
+.vs/*
+!.vs/launch.vs.json
+
+# CMake files
+build/
+CMakeScripts/
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+
+# Output files
+output/*
+out
+!output
+!output/readme.txt
+
+# Input files
+input/*
+!input
+!input/readme.txt
+!input/test01.txt
+/.idea/
