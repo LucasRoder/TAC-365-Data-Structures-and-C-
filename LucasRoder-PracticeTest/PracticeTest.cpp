@@ -598,8 +598,9 @@ to do it and how fast this is.
 
 */
 
+#include <unordered_set>
 
-dup(std::vector<int>& a, std::vector<int>& b) {
+int dup(std::vector<int>& a, std::vector<int>& b) {
     int dupCount = 0;
 
     std::unordered_set<int> set;
@@ -617,7 +618,7 @@ dup(std::vector<int>& a, std::vector<int>& b) {
     return dupCount;
 
 
-};
+}
 
 
 
